@@ -1,0 +1,28 @@
+{
+    "5872": {
+      "teacher": "Mrs. Smith",
+      "students": [
+        "John Smith",
+        "Jane Doe",
+        "Bob Johnson"
+      ],
+      "assignments": [
+        "Essay on Mindset",
+        "Essay on why its important to pay attention in class"
+      ],
+      "securityKey": "abc123"
+    },
+    "9822": {
+      "teacher": "Mr. Smith",
+      "students": [
+        "John Dane",
+        "Billy Johnson",
+        "Peter Smith"
+      ],
+      "assignments": [
+        "Math Review"
+      ],
+      "securityKey": "def456"
+    }
+  }
+  
